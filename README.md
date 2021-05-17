@@ -2,11 +2,11 @@
 <h4 align="center"> I'am Muhammet Emre Vatan. I am student at computer science in Turkey. :nerd_face: </h4>
 <p align="center">
   Computer Engineering - Degree Program | 
-  <a href="https://bilmuh.trakya.edu.tr" target="blank"> Trakya University </a>
+  <a href="https://bilmuh-en.trakya.edu.tr" target="blank"> Trakya University </a>
 </p>
 <p align="center">
   Computer Programming - Associate Degree Program | 
-  <a href="https://www.istanbul.edu.tr/tr/_" target="blank"> Istanbul University </a>
+  <a href="https://www.istanbul.edu.tr/en/_" target="blank"> Istanbul University </a>
 </p>
 
 <p align="center">
