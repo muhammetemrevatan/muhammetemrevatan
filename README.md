@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetemrevatan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="muhammetemrevatan"></a>
-  <a href="https://www.instagram.com/muhammetemrevatan/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   alt="muhammetemrevatan"></a>
+  <a href="https://www.instagram.com/memrevatan/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   alt="muhammetemrevatan"></a>
 </p>
 
 <p align="center"> 
