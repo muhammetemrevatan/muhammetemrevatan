@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there! Welcome to my github page! </h2>
-<h4 align="center"> I'am Muhammet Emre Vatan. I am student at computer science in Turkey. :nerd_face: </h4>
+<h4 align="center"> Hi there, My name is Muhammet Emre Vatan. I am student at computer engineer in Turkey. :nerd_face: </h4>
 <p align="center">
   Computer Engineering - Degree Program | 
   <a href="https://bilmuh-en.trakya.edu.tr" target="blank"> Trakya University </a>
