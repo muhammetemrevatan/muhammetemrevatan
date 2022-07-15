@@ -1,5 +1,5 @@
-<h2 align="center"> Hi there! Welcome to my github page! </h2>
-<h4 align="center"> Hi there, My name is Muhammet Emre Vatan. I am student at computer engineer in Turkey. :nerd_face: </h4>
+<h2 align="center"> Hi there! Welcome to My Github Page! </h2>
+<h4 align="center"> My name is Muhammet Emre Vatan. I am student at computer engineer in Turkey. :nerd_face: </h4>
 <p align="center">
   Computer Engineering - Degree Program | 
   <a href="https://bilmuh-en.trakya.edu.tr" target="blank"> Trakya University </a>
@@ -9,15 +9,17 @@
   <a href="https://www.istanbul.edu.tr/en/_" target="blank"> Istanbul University </a>
 </p>
 
-## Languages and tools
+<h2 align="center"> Languages & Tools </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,c,dotnet,eclipse,java,js,mongodb,nodejs,postgres,py,visualstudio,vscode" />
   </a>
 </p>
 
+<h2 align="center"> Social Media & Code Community  </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetemrevatan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="muhammetemrevatan"></a>
+  <a href="https://www.codewars.com/users/queRy00" target="blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"   alt="muhammetemrevatan"></a>
   <a href="https://www.instagram.com/memrevatan/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   alt="muhammetemrevatan"></a>
 </p>
 
