@@ -9,6 +9,13 @@
   <a href="https://www.istanbul.edu.tr/en/_" target="blank"> Istanbul University </a>
 </p>
 
+# Languages and tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,c,dotnet,eclipse,fortran,hibernate,java,js,maven,mongodb,nodejs,postgres,py,spring,visualstudio,vscode" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetemrevatan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="muhammetemrevatan"></a>
   <a href="https://www.instagram.com/memrevatan/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   alt="muhammetemrevatan"></a>
