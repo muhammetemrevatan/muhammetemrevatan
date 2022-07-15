@@ -9,10 +9,10 @@
   <a href="https://www.istanbul.edu.tr/en/_" target="blank"> Istanbul University </a>
 </p>
 
-# Languages and tools
+### Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,c,dotnet,eclipse,fortran,hibernate,java,js,maven,mongodb,nodejs,postgres,py,spring,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons? i=git,bootstrap,html,css,c,dotnet,eclipse,fortran,hibernate,java,js,maven,mongodb,nodejs,postgres,py,spring,visualstudio,vscode" width="25" height="25" />
   </a>
 </p>
 
