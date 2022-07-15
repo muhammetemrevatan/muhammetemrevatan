@@ -12,7 +12,7 @@
 ### Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons? i=git,bootstrap,html,css,c,dotnet,eclipse,fortran,hibernate,java,js,maven,mongodb,nodejs,postgres,py,spring,visualstudio,vscode" width="25" height="25" />
+    <img src="https://skillicons.dev/icons? i=git,bootstrap,html,css,c,dotnet,eclipse,fortran,hibernate,java,js,maven,mongodb,nodejs,postgres,py,spring,visualstudio,vscode" />
   </a>
 </p>
 
