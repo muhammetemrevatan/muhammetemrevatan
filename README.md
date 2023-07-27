@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there! Welcome to My Github Page! </h2>
-<h4 align="center"> My name is Muhammet Emre Vatan. I am student at computer engineer in Turkey. </h4>
+<h4 align="center"> My name is Muhammet Emre Vatan. I've been working as a Java Software Engineer for seven months in FinTech industry.  </h4>
 <p align="center">
   Computer Engineering - Degree Program | 
   <a href="https://bilmuh-en.trakya.edu.tr" target="blank"> Trakya University </a>
