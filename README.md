@@ -4,7 +4,7 @@
 <h2 align="center"> Languages & Tools </h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,spring,java,redis,rabbitmq,html,css,js,docker,maven,mongodb,postgres,mysql,py,nextjs,grafana,prometheus,regex,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,spring,java,redis,rabbitmq,html,css,js,docker,maven,mongodb,postgres,mysql,py,react,grafana,prometheus,regex,idea,vscode,postman,prometheus,grafana,plsql" />
   </a>
 </p>
 
