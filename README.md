@@ -1,13 +1,5 @@
 <h2 align="center"> Hi there! Welcome to My Github Page! </h2>
-<h4 align="center"> My name is Muhammet Emre Vatan. I've been working as a Java Software Engineer for seven months in FinTech industry.  </h4>
-<p align="center">
-  Computer Engineering - Degree Program | 
-  <a href="https://bilmuh-en.trakya.edu.tr" target="blank"> Trakya University </a>
-</p>
-<p align="center">
-  Computer Programming - Associate Degree Program | 
-  <a href="https://www.istanbul.edu.tr/en/_" target="blank"> Istanbul University </a>
-</p>
+<h4 align="center"> My name is Muhammet Emre Vatan. I've been working as a Software Engineer in FinTech industry.  </h4>
 
 <h2 align="center"> Languages & Tools </h2>
 <p align="center">
