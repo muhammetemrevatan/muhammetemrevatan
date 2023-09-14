@@ -11,8 +11,6 @@
 <h2 align="center"> Social Media & Code Community  </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammetemrevatan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="muhammetemrevatan"></a>
-  <a href="https://www.hackerrank.com/vatanemre123?hr_r=1" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"   alt="muhammetemrevatan"></a>
-  <a href="https://www.instagram.com/emremv0/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   alt="muhammetemrevatan"></a>
 </p>
 
 <p align="center"> 
