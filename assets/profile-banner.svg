@@ -1,12 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-  <title id="title">Muhammet Emre Vatan — Backend engineering</title>
-  <desc id="desc">Java, Spring Boot and distributed systems. A dark charcoal banner with a restrained green accent.</desc>
+  <title id="title">Muhammet Emre Vatan</title>
+  <desc id="desc">AI, frontend, backend, product development and DevOps. A dark charcoal banner with a restrained green accent.</desc>
   <rect width="1200" height="240" rx="16" fill="#101215"/>
   <rect x="1" y="1" width="1198" height="238" rx="15" fill="none" stroke="#292e35"/>
   <rect x="44" y="48" width="4" height="144" rx="2" fill="#b5dd78"/>
-  <text x="72" y="72" fill="#a6aeb8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">MUHAMMET EMRE VATAN</text>
-  <text x="69" y="136" fill="#f0eee8" font-family="Georgia, 'Times New Roman', serif" font-size="54">Backend engineering.</text>
-  <text x="72" y="181" fill="#b5dd78" font-family="Arial, Helvetica, sans-serif" font-size="20">Java · Spring Boot · Distributed systems</text>
+  <text x="69" y="122" fill="#f0eee8" font-family="Georgia, 'Times New Roman', serif" font-size="54">Muhammet Emre Vatan</text>
+  <text x="72" y="171" fill="#b5dd78" font-family="Arial, Helvetica, sans-serif" font-size="20">AI · Frontend · Backend · Product development · DevOps</text>
   <g fill="none" stroke="#363e48" stroke-width="1.5">
     <path d="M927 70H1037V170H927Z"/>
     <path d="M1037 95H1102M1037 145H1102M897 120H927"/>
