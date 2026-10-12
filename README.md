@@ -1,4 +1,4 @@
-![Muhammet Emre Vatan — AI, frontend, backend, product development and DevOps](assets/profile-banner.svg)
+![Muhammet Emre Vatan — AI, frontend, backend, product development and DevOps](assets/profile-header.svg)
 
 I build software from idea to deployment: interfaces, backend services, AI integrations, and automations. I care about how the pieces work together, from the user experience and application architecture to data consistency and reliable operation.
 
