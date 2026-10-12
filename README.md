@@ -1,23 +1,26 @@
-<h2 align="center"> Hi there! Welcome to My Github Page! </h2>
-<h4 align="center"> My name is Muhammet Emre Vatan. I've been working as a Software Engineer in FinTech industry.  </h4>
+![Muhammet Emre Vatan — Backend engineering with Java, Spring Boot and distributed systems](assets/profile-banner.svg)
 
-<h2 align="center"> Languages & Tools </h2>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,spring,java,redis,rabbitmq,html,css,js,docker,maven,mongodb,postgres,mysql,py,react,grafana,prometheus,regex,idea,vscode,postman,prometheus,grafana,plsql" />
-  </a>
-</p>
+I'm a **Backend Software Engineer** working with **Java, Spring Boot, and distributed systems**. I build APIs, asynchronous integrations, and data processing services, with an emphasis on maintainable code, data consistency, and reliable operation.
 
-<h2 align="center"> Social Media & Code Community  </h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammetemrevatan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   alt="muhammetemrevatan"></a>
-</p>
+[Portfolio](https://muhammetemrevatan.com/?lang=en) · [Technical writing](https://muhammetemrevatan.com/blog?lang=en) · [LinkedIn](https://www.linkedin.com/in/muhammetemrevatan/)
 
-<p align="center"> 
-  <a href="https://github-readme-stats.vercel.app/api?username=muhammetemrevatan&show_icons=true&theme=radical" alt="muhammetemrevatan"><img src="https://github-readme-stats.vercel.app/api?username=muhammetemrevatan&show_icons=true&theme=radical" alt="muhammetemrevatan" /></a> 
-</p> 
+## Engineering focus
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=muhammetemrevatan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetemrevatan" /> 
-</p>
+- **Backend:** Java, Spring Boot, Spring Batch; modular services and HTTP APIs.
+- **Messaging & data:** Kafka, RabbitMQ, Redis, PostgreSQL, and Oracle; event-driven integration and relational data processing.
+- **Reliability:** Transactional Outbox, idempotent event processing, and testing with JUnit and Mockito.
+
+## Selected projects
+
+| Project | Technical focus |
+| --- | --- |
+| [Courier Tracking](https://github.com/muhammetemrevatan/courier-tracking) | Spring Boot service with hexagonal architecture, Haversine distance calculation, store-entry events, and Redis state. |
+| [Employee Data Batch](https://github.com/muhammetemrevatan/employee-batch) | Spring Batch pipeline that pages through Oracle employee records, transforms them in chunks, and handles duplicate-key writes. |
+| [Reminder Bot](https://github.com/muhammetemrevatan/reminder-bot) | Python Telegram assistant for Turkish text and voice requests, CalDAV events, recurring reminders, and recovery after restarts. |
+| [GSM Message Sender](https://github.com/muhammetemrevatan/gsm-sender) | Typed message-request routing demo with provider-specific handlers, OpenAPI documentation, and Prometheus/Grafana monitoring. |
+| [ToxifYou Backend](https://github.com/muhammetemrevatan/toxifyoubackend) | Spring Boot API for a social application, with authentication and PostgreSQL persistence. [React frontend](https://github.com/muhammetemrevatan/toxifyoufrontend). |
+
+Alongside backend development, I build personal automations with **Python and n8n**, and deploy my projects with **Docker and Dokploy**. My [daily AI news digest](https://muhammetemrevatan.com/projects/daily-ai-news-digest?lang=en) combines RSS sources, Gemini summarization, and Telegram delivery.
+
+Project explanations, workflow diagrams, and development notes live on [muhammetemrevatan.com](https://muhammetemrevatan.com/?lang=en).
 
